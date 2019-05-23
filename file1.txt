@@ -1,4 +1,7 @@
 class myclass{
+void myMethod(){
+	sysout("myMethod get modified");
+}
 main(){
 sysout("hello git ...");
 }

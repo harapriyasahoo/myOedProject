@@ -2,6 +2,9 @@ class myclass{
 static void myMethod(){
 	sysem.out.println("myMethod get modifiedddd");
 }
+void displayDate(){
+sysout("date")
+}
 main(){
 //calling method 
 myMethode(); //static method call

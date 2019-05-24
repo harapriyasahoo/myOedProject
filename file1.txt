@@ -1,11 +1,12 @@
 class myclass{
 static void myMethod(){
-	sysout("myMethod get modifiedddd");
+	sysem.out.println("myMethod get modifiedddd");
 }
 main(){
 //calling method 
 myMethode(); //static method call
 sysout("hello gitsss ...");
+//change1 in main
 obj.mymethod();
 }
 }

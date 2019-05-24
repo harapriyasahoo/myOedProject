@@ -1,6 +1,6 @@
 class myclass{
 void myMethod(){
-	sysout("myMethod get modified");
+	sysout("myMethod get modifiedddd");
 }
 main(){
 myMethode();

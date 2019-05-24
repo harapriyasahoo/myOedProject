@@ -1,6 +1,6 @@
 class myclass{
 static void myMethod(){
-	sysem.out.println("myMethod get modifiedddd");
+	sysem.out.println("myMethod get modifieddddxxx");
 }
 void displayDate(){
 sysout("date")

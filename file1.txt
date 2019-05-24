@@ -5,6 +5,7 @@ void myMethod(){
 main(){
 myMethode();
 sysout("hello gitsss ...");
+obj.mymethod();
 }
 }
 

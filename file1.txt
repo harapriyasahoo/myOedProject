@@ -9,8 +9,6 @@ sysout("hello gitsss ...");
 //change1 in main
 obj.mymethod();
 }
-<<<<<<< HEAD
-=======
 disply(){
 system.out("display details");
 return str;;
@@ -18,7 +16,7 @@ return str;;
 mymethod2(){
 system.out("mymethod2 details");
 }
->>>>>>> 34a3b09... added mymethod 2 display
+
 }
 
 

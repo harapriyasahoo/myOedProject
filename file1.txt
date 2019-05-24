@@ -1,9 +1,10 @@
 class myclass{
-void myMethod(){
+static void myMethod(){
 	sysout("myMethod get modifiedddd");
 }
 main(){
-myMethode();
+//calling method 
+myMethode(); //static method call
 sysout("hello gitsss ...");
 obj.mymethod();
 }
